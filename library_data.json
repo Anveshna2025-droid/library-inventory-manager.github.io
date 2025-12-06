@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Python for Beginners",
+        "author": "Ananya Kapoor",
+        "isbn": "201",
+        "status": "available"
+    },
+    {
+        "title": "Data Structures Made Easy",
+        "author": "Rohan Sinha",
+        "isbn": "202",
+        "status": "issued"
+    },
+    {
+        "title": "Intro to Algorithms",
+        "author": "Meera Iyer",
+        "isbn": "203",
+        "status": "available"
+    },
+    {
+        "title": "Clean Coding Practices",
+        "author": "Aditya Menon",
+        "isbn": "204",
+        "status": "available"
+    },
+    {
+        "title": "Relational Database Basics",
+        "author": "Simran Kaur",
+        "isbn": "205",
+        "status": "available"
+    },
+    {
+        "title": "Operating Systems Overview",
+        "author": "Nikhil Arora",
+        "isbn": "206",
+        "status": "available"
+    },
+    {
+        "title": "Fundamentals of Networking",
+        "author": "Shivani Desai",
+        "isbn": "207",
+        "status": "available"
+    },
+    {
+        "title": "Object Oriented Design",
+        "author": "Varun Joshi",
+        "isbn": "208",
+        "status": "available"
+    },
+    {
+        "title": "Discrete Maths Essentials",
+        "author": "Tanvi Kulkarni",
+        "isbn": "209",
+        "status": "issued"
+    },
+    {
+        "title": "Getting Started with ML",
+        "author": "Arjun Nair",
+        "isbn": "210",
+        "status": "available"
+    }
+]
